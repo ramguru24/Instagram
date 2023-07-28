@@ -1,0 +1,78 @@
+*{
+    background-color:white;
+    color: black;
+}
+.main{
+    background-color: white;
+    display: flex;
+
+}
+.img1{
+    margin: 50px 0px 15px 300px;
+    height: 550px;
+
+}
+.signin{
+    border:1px solid rgb(211, 211, 211);
+    width:350px;
+    height: 450px;
+    margin:50px 0px 0px 20px;
+    
+
+}
+.I{
+    
+    width:200px;
+    padding: 50px 0px 0px 80px;
+}
+
+.username{
+    border:1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    width: 300px;
+    height:40px;
+    margin:40px 0px 0px 25px;
+}
+.password{
+    border:1px solid rgb(211, 211, 211);
+    border-radius: 5px;
+    width: 300px;
+    height:40px;
+    margin:10px 0px 0px 25px;
+}
+
+.loginbutton{
+    width: 300px;
+    height:40px;
+    border-radius: 10px;
+    border:1px solid #50b4fc;
+    background-color: #50b4fc;
+    color: white;
+    margin:10px 0px 0px 25px;
+}
+.facebook{
+    display: flex;
+
+}
+.ficon{
+    height: 25px;
+    width: 25px;
+    margin: 15px 0px 0px 100px;
+}
+.l1{
+    margin: 20px 0px 0px 5px;
+    color: #094874;   
+}
+.fp{
+    margin: 15px 0px 0px 135px;
+    color: rgb(77, 121, 178);
+    font-size: small;
+}
+.Account{
+    border:1px solid rgb(211, 211, 211);
+    width:350px;
+    height: 50px;
+    margin:200px 0px 0px 20px;
+    
+
+}
